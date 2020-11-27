@@ -1,0 +1,17 @@
+"""
+Info about our project comes here
+"""
+
+__author__ = "Bo Claes"
+__email__ = "bo.claes@student.kdg.be"
+__status__ = "Development"
+
+
+# Python program to execute
+# function directly
+def my_function():
+    print("I am inside function")
+
+
+# We can test function by calling it.
+my_function()
